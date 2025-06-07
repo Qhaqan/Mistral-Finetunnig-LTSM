@@ -1,7 +1,7 @@
-#🔧 Mistral-7B Keyword Generator – Fine-Tuned LLM with LoRA (4-bit)
+🔧 Mistral-7B Keyword Generator – Fine-Tuned LLM with LoRA (4-bit)
 This project demonstrates the full pipeline of fine-tuning the mistralai/Mistral-7B-v0.1 language model using Low-Rank Adaptation (LoRA) and 4-bit quantization for efficient training on consumer GPUs like Google Colab's A100. The fine-tuned model specializes in generating unique, high-quality keywords based on given prompts.
 
-#📌 Features
+📌 Features
 🔍 Custom Dataset: Trained on thousands of structured prompt-output pairs in JSONL format
 
 ⚙️ 4-bit Quantization: Efficient training using bitsandbytes
